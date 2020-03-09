@@ -632,3 +632,28 @@
   width:59px;
   white-space:nowrap;
 }
+#u19_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:15px;
+  height:15px;
+}
+#u19 {
+  border-width:0px;
+  position:absolute;
+  left:340px;
+  top:16px;
+  width:15px;
+  height:15px;
+}
+#u19_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
