@@ -93,6 +93,9 @@
 .radio_button {
   text-align:left;
 }
+.tree_node {
+  text-align:left;
+}
 ._形状 {
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
@@ -107,6 +110,13 @@
   text-align:left;
 }
 .ellipse {
+}
+.heading_1 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
 }
 .link_button {
   color:#169BD5;
